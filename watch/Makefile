@@ -7,7 +7,7 @@ OBJ_DIR = build/obj
 SRC_FILES = $(wildcard $(SRC_DIR)/*.c)
 OBJ_FILES = $(patsubst $(SRC_DIR)/%.c,$(OBJ_DIR)/%.rel,$(SRC_FILES))
 
-CFLAGS = --std-sdcc17 -mstm8 --opt-code-size
+CFLAGS = --std-sdcc17 -mstm8
 
 all: $(OUTPUT)
 

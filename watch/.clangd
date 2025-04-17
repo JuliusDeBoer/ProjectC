@@ -1,2 +1,2 @@
 CompileFlags:
-  Add: [-Wno-main-return-type, -DCLANGD]
+  Add: [-Wno-main-return-type]

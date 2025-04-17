@@ -2,10 +2,10 @@
 #define SDCC_H
 
 // Suppress clangd errors
-#ifdef CLANGD
-#define NULL #define __asm__(_)(void) 0
+#if !defined(__SDCC_mcs51)
+#define __at(_)
 #define __critical(_)
 #define __interrupt(_)
 #define __trap
-#endif // CLANGD
+#endif
 #endif // SDCC_H
