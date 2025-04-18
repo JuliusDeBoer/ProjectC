@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/../lib/STM8S105S6T6C/footprints")(options "")(descr ""))
+)

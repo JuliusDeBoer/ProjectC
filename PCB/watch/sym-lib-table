@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM8S105S6T6C")(type "KiCad")(uri "${KIPRJMOD}/../lib/STM8S105S6T6C/STM8S105S6T6C.kicad_sym")(options "")(descr ""))
+)
