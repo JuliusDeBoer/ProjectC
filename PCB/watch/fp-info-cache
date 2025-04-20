@@ -1,4 +1,4 @@
-5235136260777
+3490468569158
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6544,6 +6544,13 @@ capacitor tantalum
 0
 2
 2
+Casio Footprints
+CASIO-F91W-OUTLINE
+
+
+0
+40
+40
 Connector
 Banana_Cliff_FCR7350B_S16N-PC_Horizontal
 Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, black, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
@@ -92378,6 +92385,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+STM8S105C6T6
+LQFP48-7X7mm
+
+STM8S105C6T6 
+0
+48
+48
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -101275,24 +101289,3 @@ Varistor VF
 0
 2
 2
-footprints
-LQFP-44
-
-STM8S105S6T6C 
-0
-44
-44
-footprints
-LQFP-44-L
-
-STM8S105S6T6C 
-0
-44
-44
-footprints
-LQFP-44-M
-
-STM8S105S6T6C 
-0
-44
-44
