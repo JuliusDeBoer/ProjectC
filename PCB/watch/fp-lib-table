@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "STM8S105C6T6")(type "KiCad")(uri "${KIPRJMOD}/../lib/STM8S105C6T6/footprints.pretty")(options "")(descr ""))
   (lib (name "Casio Footprints")(type "KiCad")(uri "${KIPRJMOD}/../lib/Casio")(options "")(descr ""))
+  (lib (name "CP2102")(type "KiCad")(uri "${KIPRJMOD}/../lib/CP2102/footprints.pretty")(options "")(descr ""))
 )
